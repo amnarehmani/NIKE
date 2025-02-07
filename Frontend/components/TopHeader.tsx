@@ -21,9 +21,9 @@ const TopHeader = () => {
             className="w-[28px] h-[28px] md:w-[32px] md:h-[32px]"
           />
         </div>
-
-        Clerk User / SignIn Button Section
-        <div className="flex items-center sm:gap-4 gap-2 text-[12px] md:text-[14px] font-medium sm:ml-auto">
+{/* 
+        Clerk User / SignIn Button Section */}
+        {/* <div className="flex items-center sm:gap-4 gap-2 text-[12px] md:text-[14px] font-medium sm:ml-auto"> */}
           {/* <ClerkLoaded>
             {user ? (
               <div className="flex items-center gap-2">
@@ -41,7 +41,7 @@ const TopHeader = () => {
               </SignInButton>
             )}
           </ClerkLoaded> */}
-        </div>
+        {/* </div> */}
       </div>
       
     </div>
